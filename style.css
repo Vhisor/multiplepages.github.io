@@ -1,0 +1,26 @@
+body {
+    font-family: Arial;
+}
+img {
+    width: 98vw;
+    display: block;
+    margin: 0px 5px;
+}
+
+.menu {
+    text-align: center;
+}
+
+.img-caption {
+    margin-top: 0px;
+    margin-left: 5px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+footer {
+    background: gray;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
